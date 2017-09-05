@@ -16,8 +16,6 @@ Submitting
 ------------
 Name: Jiahao Liu
 
-Pennid: lujiayi
-
 Implement feature: Path Tracing with Participating Media
 
 ![](./rendered_images.png)
