@@ -1,3 +1,5 @@
+* Render Results
+
 Implement feature: Path Tracing with Participating Media
 
 ![](./rendered_images.png)
